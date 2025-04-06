@@ -8,6 +8,7 @@
   * Important Data Engineering Terminologies
   * Data Storage Types
   * Big Data Project Phases
+  * D
 * Data Engineering on Cloud
   * Data Engineering on AWS
   * Data Engineering on Azure
